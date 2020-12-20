@@ -1,4 +1,4 @@
-# Simple Code to explain Tell don't Ask
+# Simple code to explain Tell don't Ask
 
 - https://wiki.c2.com/?TellDontAsk
 - https://www2.ccs.neu.edu/research/demeter/related-work/pragmatic-programmer/jan_03_enbug.pdf
