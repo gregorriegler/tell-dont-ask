@@ -18,6 +18,7 @@
 - Information Hiding
 - Law of Demeter  
 - Feature Envy
+- Anemic Domain Model
 
 ## FP
 - Higher Order Functions
