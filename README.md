@@ -4,7 +4,7 @@
 - https://www2.ccs.neu.edu/research/demeter/related-work/pragmatic-programmer/jan_03_enbug.pdf
 - https://martinfowler.com/bliki/TellDontAsk.html
 
-Explain Tell don't Ask by answering the following questions:
+## Explain Tell don't Ask by answering the following questions:
 - What is meant with "Ask"?
 - What is the Problem with Asking?
     - Duplication & Coupling
@@ -13,12 +13,12 @@ Explain Tell don't Ask by answering the following questions:
 - What happens to accessors? - eradicated
 - How do you keep your objects from growing huge?
 
-Related
+## Related
 - Encapsulation
 - Information Hiding
 - Law of Demeter  
 - Feature Envy
 
-FP
+## FP
 - Higher Order Functions
 - Monads
